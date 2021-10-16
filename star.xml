@@ -7,4 +7,6 @@
   <project name="9810-S/android_kernel_samsung_universal9810" path="kernel/samsung/universal9810" revision="fluid-12" remote="github"/>
   <!--Blobs-->
   <project name="9810-S/android_vendor_samsung" path="vendor/samsung" revision="fluid-12" remote="github"/>
+  <!--Compiler-->
+  <project name="9810-S/clang-r353983c1" path="prebuilds/clang/host/linux-x86/clang-r353983c1" revision="master" remote="github"/>
 </manifest>
