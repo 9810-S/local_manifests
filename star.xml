@@ -1,12 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
   <!--Device tree-->
-  <project name="9810-S/android_device_samsung_starlte" path="device/samsung/starlte" revision="fluid-12" remote="github"/>
-  <project name="9810-S/android_device_samsung_universal9810-common" path="device/samsung/universal9810-common" revision="fluid-12" remote="github"/>
+  <project name="9810-S/android_device_samsung_starlte" path="device/samsung/starlte" revision="aosp-12" remote="github"/>
+  <project name="9810-S/android_device_samsung_universal9810-common" path="device/samsung/universal9810-common" revision="aosp-12" remote="github"/>
   <!--Kernel-->
-  <project name="9810-S/android_kernel_samsung_universal9810" path="kernel/samsung/universal9810" revision="fluid-12" remote="github"/>
+  <project name="Baddar90/kernel_samsung_universal9810_test" path="kernel/samsung/universal9810" revision="rc" remote="github"/>
   <!--Blobs-->
   <project name="9810-S/android_vendor_samsung" path="vendor/samsung" revision="fluid-12" remote="github"/>
-  <!--Compiler-->
-  <project name="9810-S/clang-r353983c1" path="prebuilds/clang/host/linux-x86/clang-r353983c1" revision="master" remote="github"/>
 </manifest>
