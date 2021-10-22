@@ -2,7 +2,7 @@
 <manifest>
   <!--Device tree-->
   <project name="9810-S/android_device_samsung_starlte" path="device/samsung/starlte" revision="aosp-12" remote="github"/>
-  <project name="9810-S/android_device_samsung_universal9810-common" path="device/samsung/universal9810-common" revision="aosp-12" remote="github"/>
+  <project name="Baddar90/android_device_samsung_universal9810-common" path="device/samsung/universal9810-common" revision="arrow-12.0" remote="github"/>
   <!--Kernel-->
   <project name="Baddar90/kernel_samsung_universal9810_test" path="kernel/samsung/universal9810" revision="rc" remote="github"/>
   <!--Blobs-->
