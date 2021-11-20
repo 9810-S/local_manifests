@@ -6,7 +6,7 @@
   <project name="9810-S/android_device_samsung_crownlte" path="device/samsung/crownlte" revision="aosp-12" remote="github"/>
   <project name="9810-S/android_device_samsung_universal9810-common" path="device/samsung/universal9810-common" revision="aosp-12" remote="github"/>
   <!--Kernel-->
-  <project name="baddar90/kernel_samsung_universal9810_test" path="kernel/samsung/universal9810" revision="aosp-12" remote="github"/>
+  <project name="baddar90/kernel_samsung_universal9810_test" path="kernel/samsung/universal9810" revision="rc" remote="github"/>
   <!--Blobs-->
   <project name="9810-S/android_vendor_samsung" path="vendor/samsung" revision="aosp-12" remote="github"/>
 </manifest>
